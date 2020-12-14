@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**xapp** is an umbrella term to hold various microservices under it. Current services include [slot-booking-system](), [admin-panel]() and [email-service](). Refer the individual project Readme files to know about it's usage and features.
+**xapp** is an umbrella term that holds various microservices under it. Current services include [slot-booking-system](https://github.com/csivitu/slot-booking-system), [admin-panel](https://github.com/csivitu/admin-panel) and [email-service](https://github.com/csivitu/email-service-backend). Refer the individual project Readme files to know about it's usage and features.
 
 
 <!-- ROADMAP -->
